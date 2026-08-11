@@ -21,7 +21,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.19.x' # Apne flutter version ke hisab se change kar sakte hain
+          flutter-version: '3.44.9' # Apne flutter version ke hisab se change kar sakte hain
           channel: 'stable'
 
       - name: Install Dependencies
